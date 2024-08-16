@@ -19,5 +19,6 @@ func main() {
 	fmt.Printf("%T\n", isMarried) // output => bool
 
 	comments()
+	operators()
 
 }
